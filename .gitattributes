@@ -1,0 +1,2 @@
+threejs-3d-model-scenario/examples/models/fbx/Jump.fbx filter=lfs diff=lfs merge=lfs -text
+threejs-3d-model-scenario/examples/models/fbx/Idle.fbx filter=lfs diff=lfs merge=lfs -text
